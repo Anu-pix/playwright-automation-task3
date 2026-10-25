@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+.idea/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+auth.json
+storage_state.json
+playwright/.auth/
